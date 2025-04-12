@@ -1,0 +1,33 @@
+{
+  "name": "stylelint-config-expa",
+  "version": "1.0.0",
+  "description": "Modern CSSNext industrial stylelint config",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolai-shabalin/stylelint-config-expa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolai-shabalin/stylelint-config-expa/issues"
+  },
+  "homepage": "https://github.com/nikolai-shabalin/stylelint-config-expa#readme",
+  "engines": {
+    "node": ">=18.12.0"
+  },
+  "dependencies": {
+    "@stylistic/stylelint-plugin": "3.1.2"
+  },
+  "peerDependencies": {
+    "stylelint": "^16.1.0"
+  },
+  "devDependencies": {
+    "stylelint": "^16.18.0"
+  },
+  "type": "module"
+}
